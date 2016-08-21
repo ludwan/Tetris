@@ -1,0 +1,9 @@
+﻿  Sound.cpp
+  Piece.cpp
+  main.cpp
+c:\users\ludde\desktop\tetris\tetris\main.cpp(402): warning C4018: '>=': signed/unsigned mismatch
+c:\users\ludde\desktop\tetris\tetris\main.cpp(498): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Field.cpp
+  Color.cpp
+  Generating Code...
+  tetris.vcxproj -> C:\Users\Ludde\Desktop\tetris\Debug\tetris.exe
